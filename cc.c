@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include <string.h>
 #include <fcntl.h>
-#include <unistd.h>
 
 #define SIZE 1024      // length of the char array
 
