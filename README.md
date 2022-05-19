@@ -27,3 +27,19 @@ Take command line arguments for the number of letters to shift and for the name 
 
     -n
       number all output lines
+
+## `SCREENSHOTS`
+
+![1 argument](media/1.jpg)
+
+![unknown file](media/2.jpg)
+
+![cat function](media/3.jpg)
+
+![number the output](media/4.jpg)
+
+![shifted](media/5.jpg)
+
+![redirecting output](media/6.jpg)
+
+![reverse shifting](media/7.jpg)
